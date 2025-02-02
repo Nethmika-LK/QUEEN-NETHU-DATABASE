@@ -1,6 +1,11 @@
-{
-    "media": [
-        "https://example.com/song2.mp4",
-        "https://example.com/image1.jpg"
-    ]
-}
+[
+    {
+        "link": "https://sinhalasub.lk/movies/godzilla-x-kong-the-new-empire-2024-sinhala-subtitles/.mp4"
+    },
+    {
+        "link": "https://sinhalasub.lk/movies/bad-newz-2024-sinhala-subtitles/.mp4"
+    },
+    {
+        "link": "https://sinhalasub.lk/movies/the-croods-a-new-age-2020-sinhala-subtitles/.mp4"
+    }
+]
